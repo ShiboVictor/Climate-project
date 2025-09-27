@@ -1,7 +1,10 @@
 # Climate-project
 Prediction of Extreme Weather Events: Machine Learning Models Trained on Multivariate Meteorological Data
+
 WANG SHIBO
+
 Faculty of Computer Science
+
 shibowang43@gmail.com
 
 The increasing frequency and intensity of extreme weather events due to global warming poses severe threats to life and property across Asia. Traditional statistical methods struggle to capture the complex temporal and nonlinear characteristics of meteorological data, limiting their effectiveness in predicting extreme events. 
